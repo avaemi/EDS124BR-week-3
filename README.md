@@ -1,4 +1,4 @@
-# EDS124Be-week-3
+# EDS124BR-week-3
 
 Snap Program Conditional Loop: https://youtu.be/rutUbMgyitM
 
